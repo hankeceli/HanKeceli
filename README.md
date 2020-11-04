@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Han</h1>
 <h3 align="center">Deep Learning Researcher, AV Machine Learning Engineer, Robotics, BSc in Computer Science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hankeceli&label=Profile%20views&color=0e75b6&style=flat" alt="hankeceli" /> </p>
-
 - 🔭 I’m currently working on **Autonomous Vehicles Researching**
 
 - 🌱 I’m currently learning **Robotics, GANs**
