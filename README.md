@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Autonomous Vehicles Researching**
 
-- 🌱 I’m currently learning **Robotics, GANs**
+- 🌱 I’m currently learning **Robotics**
 
-- 💬 Ask me about **AV, Machine Learning, Data Science**
+- 💬 Ask me about **AV, Machine Learning, Data Science, GANs**
 
 - 📫 How to reach me **hankeceli97@gmail.com**
 
