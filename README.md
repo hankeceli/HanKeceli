@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hankeceli&layout=compact&theme=gotham" alt="hankeceli" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hankeceli&show_icons=true&theme=gotham" alt="hankeceli" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hankeceli&show_icons=true&count_private=true&theme=gotham" alt="hankeceli" /></p>
