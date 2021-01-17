@@ -7,10 +7,9 @@
 
 - 💬 Ask me about **AV, Machine Learning, Data Science, GANs**
 
-- 📫 How to reach me: <a href="mailto:hankeceli97@gmail.com?"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="20" width="60" /></a>
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
+<a href="mailto:hankeceli97@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/hankeceli" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hankeceli" /></a>
 <a href="https://stackoverflow.com/users/9989364" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="9989364"  /></a>
 <a href="https://kaggle.com/hankeceli" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="hankeceli"  /></a>
